@@ -1,0 +1,13 @@
+{
+  "name": "DADYA IGOR: Batumi Edition",
+  "short_name": "DADYA IGOR",
+  "description": "Олдскульная пиксельная аркада в Батуми. Собирай Sarajishvili и лари.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101a25",
+  "theme_color": "#101a25",
+  "icons": [{"src":"assets/app-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
